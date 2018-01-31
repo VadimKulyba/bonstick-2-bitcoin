@@ -16,3 +16,6 @@ Hw 4 b2b app in rubyroid labs
 
 Скрин index страницы
 ![Image alt](https://github.com/vadia2pac/Bonstick2Bitcoin-app/raw/master/b2b_index.PNG)
+
+Ссылка на на dema-video работы приложения:
+https://youtu.be/h9zt-MOPQ_M
