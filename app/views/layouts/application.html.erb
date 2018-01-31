@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>b2b-Blog</title>
+    <%= stylesheet_link_tag "application", media: "all",
+                            "data-turbolinks-track" => true %>
+    <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+    <%= csrf_meta_tags %>
+  </head>
+
+  <body>
+    <section class="cover-2 text-left">
+      <%= render 'layouts/navbar' %>
+            <div class="cover-container">
+              <div class="cover-inner container">
+                <div class="row">
+                  <div class="col">
+                    <%= yield %>
+                  </div>
+                </div>
+              </div>
+            </div>
+      </section>
+  </body>
+</html>
