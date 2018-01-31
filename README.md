@@ -15,4 +15,4 @@ Hw 4 b2b app in rubyroid labs
 Добавлены bootstrap разметка и стили, плюс помимо этого подключена тема superhero
 
 Скрин index страницы
-(https://github.com/vadia2pac/Bonstick2Bitcoin-app/raw/master/b2b_index.PNG)
+![Image alt](https://github.com/vadia2pac/Bonstick2Bitcoin-app/raw/master/b2b_index.PNG)
